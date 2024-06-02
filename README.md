@@ -23,10 +23,19 @@ Discount Impact: Analyzed discount behaviors to optimize pricing strategies for 
 Product Analysis: Assessed product performance to determine high-performing products and reallocate resources for better positioning.
 Sales Channel Performance: Evaluated the contribution of different sales channels to optimize resource allocation.
 Visualizations:
+ **Quarterly Total Sold Quantity Comparison:** Bar chart to compare total sold quantity per quarter, highlighting seasonal peaks and troughs.
+- **Monthly Gross Sales:** Line chart to track monthly sales over multiple years, identifying recurring seasonal patterns.
+- **Average Pre-Invoice Discount Percentage by Customer:** Table or bar chart showing the average discount percentage for different customer segments.
+- **Top 3 Products by Division:** Table displaying the top 3 products by division based on sold quantity.
+- **Channel-wise Gross Sales Percentage:** Stacked bar chart showing the percentage of gross sales from each channel.
+- **Discount vs. Sales Volume Scatter Plot:** Scatter plot to visualize the relationship between discount percentages and sales volumes.
 
-Quarterly Total Sold Quantity Comparison: Bar chart to compare total sold quantity per quarter, highlighting seasonal peaks and troughs.
-Monthly Gross Sales: Line chart to track monthly sales over multiple years, identifying recurring seasonal patterns.
-Average Pre-Invoice Discount Percentage by Customer: Table or bar chart showing the average discount percentage for different customer segments.
-Top 3 Products by Division: Table displaying the top 3 products by division based on sold quantity.
-Channel-wise Gross Sales Percentage: Stacked bar chart showing the percentage of gross sales from each channel.
-Discount vs. Sales Volume Scatter Plot: Scatter plot to visualize the relationship between discount percentages and sales volumes.
+**Screenshots:**
+Include screenshots of the key visualizations to enhance the description. You can upload the images to your GitHub repository and link them here.
+
+```markdown
+![Bottom and Top products sold by Division](https://github.com/Vidhath5/Sales_Analytics_Project/blob/73edb09777dbba913d1c1813d64c76e7a02f6c54/Screenshot%202024-06-02%20112009.jpeg)
+![Market vs Performance Target](https://github.com/Vidhath5/Sales_Analytics_Project/blob/73edb09777dbba913d1c1813d64c76e7a02f6c54/Screenshot%202024-06-02%20112138.jpeg))
+![Net sales Performance 2021] (https://github.com/Vidhath5/Sales_Analytics_Project/blob/73edb09777dbba913d1c1813d64c76e7a02f6c54/Screenshot%202024-06-02%20112341.jpeg)
+![21 vs 20 Sales by Division][(https://github.com/Vidhath5/Sales_Analytics_Project/blob/73edb09777dbba913d1c1813d64c76e7a02f6c54/Screenshot%202024-06-02%20112208.jpeg)
+![Top 10 products with % for 21 vs 20](https://github.com/Vidhath5/Sales_Analytics_Project/blob/73edb09777dbba913d1c1813d64c76e7a02f6c54/Screenshot%202024-06-02%20112009.jpeg)
